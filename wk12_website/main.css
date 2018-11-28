@@ -1,4 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Oleo+Script+Swash+Caps');
+
 body{
 		background-color: yellow;
+		font-family: "Comic Sans MS", cursive, sans-serif;
+	}
+	h1{
+	font-family: 'Oleo Script Swash Caps', cursive;	
 	}
 	<link rel="stylesheet" type="text/css" href="main.css">
