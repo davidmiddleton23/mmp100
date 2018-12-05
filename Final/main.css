@@ -38,3 +38,8 @@ p{
 	color:white;
 	font-size: 20px;
 }
+
+div{
+	width: 960px;
+	margin: 0 auto;
+}
